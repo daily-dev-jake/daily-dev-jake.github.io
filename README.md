@@ -1,5 +1,5 @@
 # Personal Website of Jiong Le Lam
-[Link to Website](daily-dev-jake.github.io)
+[Link to Website](https://daily-dev-jake.github.io)
 
 ## Projects:
 
