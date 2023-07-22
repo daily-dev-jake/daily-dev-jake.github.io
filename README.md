@@ -2,7 +2,7 @@
 [Link to Website](daily-dev-jake.github.io)
 
 ## Projects:
-===
+
 ### HTML / CSS / Javascript
 1. [Note Taking App](https://daily-dev-jake.github.io/notetakingapp/)
 
