@@ -1,15 +1,15 @@
-# [Personal Portfolio of Jiong Le Lam] (daily-dev-jake.github.io)
+# Personal Website of Jiong Le Lam
+[Link to Website](daily-dev-jake.github.io)
 
 ## Projects:
 ===
-### HTML / CSS
-1. QR Code Component with h2 and p tag: [Demo] (https://daily-dev-jake.github.io/qr-code-component-main/)
-2. 
+### HTML / CSS / Javascript
+1. [Note Taking App](https://daily-dev-jake.github.io/notetakingapp/)
 
 ### ReactJS / NodeJS / Full Stack apps
-1. Simple Badminton Score Counter: [Love All Play](https://github.com/daily-dev-jake/Love-All-Play)
-2. 
+1. Simple Badminton Score Counter: [Love All Play](https://love-all-play.onrender.com)
+2. Ecommerce MERN stack: [Ecommerce]()
 
 ### C# WPF apps
-1. [Sample Hotel Reservation booking](https://github.com/daily-dev-jake/WPF-Reserve-Hotel-Booking)
+1. [Hotel Reservation booking](https://github.com/daily-dev-jake/WPF-Reserve-Hotel-Booking)
 
