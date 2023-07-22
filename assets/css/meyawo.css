@@ -2169,8 +2169,8 @@ pre code {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #495057;
-  background-color: rgba(0, 0, 0, 0.01);
+  color: #000000e2;
+  background-color: rgba(246, 246, 246, 0.94);
   background-clip: padding-box;
   border: 1px solid #ced4da;
   border-radius: 0.25rem;
@@ -2192,10 +2192,10 @@ pre code {
 
 .form-control:focus {
   color: #495057;
-  background-color: rgba(0, 0, 0, 0.01);
-  border-color: #b4add3;
+  background-color: rgba(255, 255, 255, 0.895);
+  border-color: var(--primary);
   outline: 0;
-  box-shadow: 0 0 0 0.2rem rgba(105, 90, 166, 0.25);
+  box-shadow: 0 0 0 0.2rem rgba(90, 122, 166, 0.25);
 }
 
 .form-control::-webkit-input-placeholder {
@@ -12086,7 +12086,7 @@ pre .code {
   -webkit-flex-grow: 1;
       -ms-flex-positive: 1;
           flex-grow: 1;
-  max-width: 550px;
+  max-width: 650px;
 }
 
 .header .header-content .header-title .up {
@@ -12099,15 +12099,15 @@ pre .code {
 }
 
 .header .header-content .header-title .down {
-  font-size: calc(30px + (75 - 30) * ((100vw - 300px) / (1300 - 300)));
+  font-size: calc(30px + (75 - 35) * ((100vw - 300px) / (1300 - 300)));
   margin-bottom: 0;
   position: relative;
   display: block;
 }
 
 .header .header-content .header-subtitle {
-  font-size: calc(10px + (22 - 10) * ((100vw - 300px) / (1300 - 300)));
-  letter-spacing: calc(1px + (7 - 1) * ((100vw - 300px) / (1300 - 300)));
+  font-size: calc(10px + (22 - 12) * ((100vw - 300px) / (1300 - 300)));
+  letter-spacing: calc(1px + (7 - 1.5) * ((100vw - 300px) / (1300 - 300)));
   opacity: .8;
   margin-top: -10px;
   margin-bottom: 20px;
@@ -12122,6 +12122,7 @@ pre .code {
 
 .header-title {
   font-size: 2.4rem;
+  width: max-content;
   font-weight: bold;
   opacity: .8;
   color: #212529;
@@ -12189,6 +12190,13 @@ pre .code {
   -webkit-flex-grow: 1;
       -ms-flex-positive: 1;
           flex-grow: 1;
+}
+
+.about .portfolio-card{
+  
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
 }
 
 @media (max-width: 767.98px) {
